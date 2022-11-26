@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @WafiWadud
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning lua
-- 💞️ I’m looking to collaborate on ...
 - 📫 My email is wafinashwan@gmail.com
 
 <!---
